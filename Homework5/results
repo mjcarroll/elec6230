@@ -1,0 +1,192 @@
+Parallel Implementation
+Number of Threads: 1
+Static Scheduling, Chunk Size: 10
+Total Execution Time:	1.115312e+02
+Matrix Creation Time:	1.012251e-01
+Multiplication Time:	1.114125e+02
+Error Checking Time:	1.742220e-02
+error = 0.000000
+Parallel Implementation
+Number of Threads: 2
+Static Scheduling, Chunk Size: 10
+Total Execution Time:	5.913702e+01
+Matrix Creation Time:	6.182194e-02
+Multiplication Time:	5.906638e+01
+Error Checking Time:	8.825064e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 3
+Static Scheduling, Chunk Size: 10
+Total Execution Time:	3.979289e+01
+Matrix Creation Time:	4.122210e-02
+Multiplication Time:	3.974553e+01
+Error Checking Time:	6.130934e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 4
+Static Scheduling, Chunk Size: 10
+Total Execution Time:	3.068456e+01
+Matrix Creation Time:	7.018209e-02
+Multiplication Time:	3.060974e+01
+Error Checking Time:	4.637003e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 5
+Static Scheduling, Chunk Size: 10
+Total Execution Time:	2.401886e+01
+Matrix Creation Time:	4.295087e-02
+Multiplication Time:	2.397221e+01
+Error Checking Time:	3.695011e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 6
+Static Scheduling, Chunk Size: 10
+Total Execution Time:	2.177366e+01
+Matrix Creation Time:	9.970880e-02
+Multiplication Time:	2.167095e+01
+Error Checking Time:	3.005981e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 1
+Static Scheduling, Chunk Size: 100
+Total Execution Time:	1.103373e+02
+Matrix Creation Time:	9.609485e-02
+Multiplication Time:	1.102238e+02
+Error Checking Time:	1.743102e-02
+error = 0.000000
+Parallel Implementation
+Number of Threads: 2
+Static Scheduling, Chunk Size: 100
+Total Execution Time:	5.852402e+01
+Matrix Creation Time:	5.901003e-02
+Multiplication Time:	5.845613e+01
+Error Checking Time:	8.876085e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 3
+Static Scheduling, Chunk Size: 100
+Total Execution Time:	4.117220e+01
+Matrix Creation Time:	4.167581e-02
+Multiplication Time:	4.112458e+01
+Error Checking Time:	5.947113e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 4
+Static Scheduling, Chunk Size: 100
+Total Execution Time:	3.245818e+01
+Matrix Creation Time:	4.182601e-02
+Multiplication Time:	3.241177e+01
+Error Checking Time:	4.581213e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 5
+Static Scheduling, Chunk Size: 100
+Total Execution Time:	2.739189e+01
+Matrix Creation Time:	3.771615e-02
+Multiplication Time:	2.735051e+01
+Error Checking Time:	3.663063e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 6
+Static Scheduling, Chunk Size: 100
+Total Execution Time:	2.187238e+01
+Matrix Creation Time:	2.405221e-01
+Multiplication Time:	2.162875e+01
+Error Checking Time:	3.108978e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 1
+Static Scheduling, Chunk Size: 200
+Total Execution Time:	1.117896e+02
+Matrix Creation Time:	1.040740e-01
+Multiplication Time:	1.116681e+02
+Error Checking Time:	1.741719e-02
+error = 0.000000
+Parallel Implementation
+Number of Threads: 2
+Static Scheduling, Chunk Size: 200
+Total Execution Time:	6.206850e+01
+Matrix Creation Time:	5.618215e-02
+Multiplication Time:	6.200346e+01
+Error Checking Time:	8.863211e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 3
+Static Scheduling, Chunk Size: 200
+Total Execution Time:	4.351972e+01
+Matrix Creation Time:	4.423404e-02
+Multiplication Time:	4.346953e+01
+Error Checking Time:	5.953074e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 4
+Static Scheduling, Chunk Size: 200
+Total Execution Time:	3.278581e+01
+Matrix Creation Time:	3.800392e-02
+Multiplication Time:	3.274327e+01
+Error Checking Time:	4.539013e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 5
+Static Scheduling, Chunk Size: 200
+Total Execution Time:	3.049203e+01
+Matrix Creation Time:	4.126906e-02
+Multiplication Time:	3.044713e+01
+Error Checking Time:	3.633022e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 6
+Static Scheduling, Chunk Size: 200
+Total Execution Time:	2.212737e+01
+Matrix Creation Time:	7.985711e-02
+Multiplication Time:	2.204447e+01
+Error Checking Time:	3.045082e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 1
+Static Scheduling, Chunk Size: 500
+Total Execution Time:	1.093850e+02
+Matrix Creation Time:	1.001289e-01
+Multiplication Time:	1.092675e+02
+Error Checking Time:	1.739502e-02
+error = 0.000000
+Parallel Implementation
+Number of Threads: 2
+Static Scheduling, Chunk Size: 500
+Total Execution Time:	6.142793e+01
+Matrix Creation Time:	5.017495e-02
+Multiplication Time:	6.136885e+01
+Error Checking Time:	8.907080e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 3
+Static Scheduling, Chunk Size: 500
+Total Execution Time:	5.331600e+01
+Matrix Creation Time:	4.878211e-02
+Multiplication Time:	5.326128e+01
+Error Checking Time:	5.935907e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 4
+Static Scheduling, Chunk Size: 500
+Total Execution Time:	3.561720e+01
+Matrix Creation Time:	4.012203e-02
+Multiplication Time:	3.557261e+01
+Error Checking Time:	4.470825e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 5
+Static Scheduling, Chunk Size: 500
+Total Execution Time:	2.759153e+01
+Matrix Creation Time:	4.563808e-02
+Multiplication Time:	2.754226e+01
+Error Checking Time:	3.633976e-03
+error = 0.000000
+Parallel Implementation
+Number of Threads: 6
+Static Scheduling, Chunk Size: 500
+Total Execution Time:	2.731156e+01
+Matrix Creation Time:	7.846284e-02
+Multiplication Time:	2.723005e+01
+Error Checking Time:	3.041029e-03
+error = 0.000000
