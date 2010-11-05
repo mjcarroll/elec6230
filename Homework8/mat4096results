@@ -1,0 +1,17 @@
+BLOCK_SIZE = 4
+
+CUDA initialized.
+Time Results
+Total Execution Time:	1.964318e+01
+
+BLOCK_SIZE = 8
+
+CUDA initialized.
+Time Results
+Total Execution Time:	8.092247e+00
+
+BLOCK_SIZE = 16
+
+CUDA initialized.
+Time Results
+Total Execution Time:	5.746653e+00
