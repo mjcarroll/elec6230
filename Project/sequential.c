@@ -53,9 +53,7 @@ int main(){
     float windowWeight = windowSize * windowSize * windowValue;
 
     for(int i = 0; i < windowLength; i++)
-    {
         window[i] = windowValue;
-    }
 
     readFile(image, imageLength);
 
